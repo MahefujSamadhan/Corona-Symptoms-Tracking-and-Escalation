@@ -6,7 +6,7 @@ Main idea behind this Project
 3)Manage (Assign test appointment, Prioritising patient)
 
 Benifits
-1)Can helpful to user moniter himself and help them to get treatment on time
+*1)Can helpful to user moniter himself and help them to get treatment on time
 2)For doctors to manage the cases, monitor them and handle them.
 
 Features for user
